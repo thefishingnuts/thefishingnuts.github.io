@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://thefishingnuts.github.io
+title: the fishing nuts
+tagline: Fishing and all that happens before, during, and after.
+description: Enjoy the ride.  You might find some tips, some secrets, maybe some advice.  You will most definitely find a laugh and a smile.
+paginate: 5
